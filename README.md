@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cayscorruptedmind
+- 👋 Hi, I’m @nathanielg22
 - 👀 I’m interested in becoming a software engineer
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
